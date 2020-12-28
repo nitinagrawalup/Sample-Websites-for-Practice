@@ -7,4 +7,4 @@ This repository contain all the website Screensort which I made, when I was a be
 <img src="screenshots/2.png" alt="Screenshot 2"/>
 <hr/>
 <h1>Screenshot 3</h1>
-<img src="screenshots/4.png" alt="Screenshot 3"/>
+<img src="screenshots/3.png" alt="Screenshot 3"/>
