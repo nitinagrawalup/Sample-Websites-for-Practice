@@ -1,5 +1,5 @@
-# sample-wesbite-screenshot-for-practice
-This repository contain all the website Screensort which I made, when I was a beginner  in Web Developement field.
+#Sample-Wesbite-for-Practice
+This repository contain Sample Website Screensort for beginner  in Web Developement field.
 <h1>Screenshot 1</h1>
 <img src="screenshots/1.jpg" alt="Screenshot 1"/>
 <hr/>
