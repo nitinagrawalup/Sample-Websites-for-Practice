@@ -1,4 +1,4 @@
-# Sample-Wesbite-for-Practice
+# Sample-Websites-for-Practice
 This repository contain Sample Website Screensort for beginner  in Web Developement field.
 <h1>Screenshot 1</h1>
 <img src="screenshots/1.jpg" alt="Screenshot 1"/>
